@@ -2,7 +2,13 @@
 
 1.	Team number (as registered in Brightspace).
 
+    #4
+
 2.	Students’ name and Purdue e-mail (as registered in Brightspace). The project is to be done in groups of 3 students.
+
+    Cade Henschen (chensche@purdue.edu)
+    Claudia Duncan ()
+    Denton Paul ()
 
 3.	[Up to 3 lines] Definition of the problem, possibly relevant to your interests.
 
@@ -22,3 +28,5 @@
 9.  [Up to 10 lines] Which TWO experimental results will you show? (e.g., plots of number of samples versus accuracy using different subsets of the dataset, hyperparameter versus accuracy, ROC curves, etc.) You MUST implement this from scratch. Plots of the data itself DO NOT count as experimental results.
 
 10. Which programming language are you going to use? (Only MATLAB, C++, Java and Python are allowed. Jupyter notebooks are NOT allowed.)
+
+    Python
