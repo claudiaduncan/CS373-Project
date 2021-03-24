@@ -7,7 +7,7 @@
 2.	Students’ name and Purdue e-mail (as registered in Brightspace). The project is to be done in groups of 3 students.
 
     Cade Henschen (chensche@purdue.edu)
-    Claudia Duncan ()
+    Claudia Duncan (dunca106@purdue.edu)
     Denton Paul ()
 
 3.	[Up to 3 lines] Definition of the problem, possibly relevant to your interests.
